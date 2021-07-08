@@ -1,0 +1,23 @@
+.menu {
+    list-style: none;
+    font-style: monospace;
+    position: absolute;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 21px;
+    color: aqua;
+}
+
+.links:hover {
+    background-color: blue
+}
